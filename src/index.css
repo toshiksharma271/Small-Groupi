@@ -1,0 +1,9 @@
+.App {
+    font-family: sans-serif;
+    /* text-align: center; */
+  }
+  .username{
+    padding: 2%;
+    background: linear-gradient(#e66465, #9198e5);
+    text-shadow: sandybrown;
+  }
